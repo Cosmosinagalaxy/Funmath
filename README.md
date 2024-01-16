@@ -5,5 +5,7 @@
 
 [Armed Forces](https://anchorxandthe.world/games/armedforces)
 
+theme: jekyll-theme-minimal
+
 
 
