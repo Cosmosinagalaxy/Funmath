@@ -8,6 +8,7 @@
 
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2>Simulator Games 
+   
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
 
 <p><h2>Fighting Game</h2></p>
