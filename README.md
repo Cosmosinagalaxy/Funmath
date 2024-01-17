@@ -13,7 +13,7 @@
 [1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html)
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
-
+[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html)
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
