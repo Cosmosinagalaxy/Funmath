@@ -3,6 +3,8 @@
 # Funmath
 
 
+<h2>THIS IS NOT YET FULLY DEVELOPED</h2>
+
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
 
@@ -11,7 +13,7 @@
 
 
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
- <h2 style="color:purple;">Simulator Games </h2>
+ <h2 style="color:royalblue;">Simulator Games </h2>
 
 
    
