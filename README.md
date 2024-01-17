@@ -45,7 +45,7 @@
 
 
 
- <h2>Reasons to use our website
+ <h2>Reasons to use our website</h2>
 
  <li> It gets updated often
  <li>Its made up of many people together thinking of new ideas
