@@ -34,10 +34,10 @@
 
 
 
-[Orcs VS Elves](https://jetyehsunblocked.codehs.me/games/orcs-vs-elves.html)
+[Orcs VS Elves](https://jetyehsunblocked.codehs.me/games/orcs-vs-elves.html) working
 
 
-[Choppy Orc](https://jetyehsunblocked.codehs.me/games/choppy-orc.html)
+[Choppy Orc](https://jetyehsunblocked.codehs.me/games/choppy-orc.html) working
 
 
 
