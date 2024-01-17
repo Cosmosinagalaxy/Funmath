@@ -1,5 +1,9 @@
 
 
+
+
+
+
 # Funmath
 
 
@@ -9,6 +13,7 @@
 
 <h2 style="color:green;">Sports Games </h2>
 
+[Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working 
 
 [1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html)
 <h2 style="color:#5e040e;">Shooter Games</h2>
@@ -32,10 +37,9 @@
 
 
 
-
 <h2 style="color:red;">Fighting Games </h2>
 
-[Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
+
 
 
 
