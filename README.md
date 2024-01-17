@@ -11,7 +11,7 @@
 
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
 
-<h2>Fighting Games 
+<p><h2>Fighting Game</h2></p>
 
 [Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
 
