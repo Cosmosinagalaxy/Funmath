@@ -2,7 +2,7 @@
 
 # Funmath
 
-<h2>Shooter Games
+<p><h2>Shooter Games</h2></p>
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
