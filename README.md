@@ -14,24 +14,27 @@
 <h2 style="color:green;">Sports Games </h2>
 
 [Baseball Smash](https://cosmosinagalaxy.github.io/Funmath/baseballsmash.html) working
+ 
 
-[Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working 
+[1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html) working
 
-[1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html)
 
+[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html) working (kinda)
 
 
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
 
-[Pixel Gun Survive](https://cosmosinagalaxy.github.io/Funmath/pixelgunsurvive.html)
+[Pixel Gun Survive](https://cosmosinagalaxy.github.io/Funmath/pixelgunsurvive.html) working
 
 
-[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html)
+[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html) 
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
-[2s Shooter](https://cosmosinagalaxy.github.io/Funmath/2dshooter.html)
+[2s Shooter](https://cosmosinagalaxy.github.io/Funmath/2dshooter.html) working
+
+
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2 style="color:royalblue;">Simulator Games </h2>
 
@@ -50,6 +53,7 @@
 
 
 
+[Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
 
 
 
