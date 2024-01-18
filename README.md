@@ -24,7 +24,7 @@
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
-
+[2s Shooter](https://cosmosinagalaxy.github.io/Funmath/2dshooter.html)
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2 style="color:royalblue;">Simulator Games </h2>
 
