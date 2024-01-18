@@ -13,6 +13,8 @@
 
 <h2 style="color:green;">Sports Games </h2>
 
+[Baseball Smash](https://cosmosinagalaxy.github.io/Funmath/baseballsmash.html) working
+
 [Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working 
 
 [1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html)
