@@ -15,6 +15,13 @@
 
 [Soccer Star](https://cosmosinagalaxy.github.io/Funmath/soccerstar.html)
 
+
+
+[Basketball Shooter](https://cosmosinagalaxy.github.io/Funmath/basketballshooter.html)
+
+
+
+
 [Baseball Smash](https://cosmosinagalaxy.github.io/Funmath/baseballsmash.html) working
  
 
