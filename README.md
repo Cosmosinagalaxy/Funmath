@@ -13,6 +13,8 @@
 
 <h2 style="color:green;">Sports Games </h2>
 
+[Soccer Star](https://cosmosinagalaxy.github.io/Funmath/soccerstar.html)
+
 [Baseball Smash](https://cosmosinagalaxy.github.io/Funmath/baseballsmash.html) working
  
 
