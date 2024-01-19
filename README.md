@@ -15,7 +15,7 @@
 
 [Soccer Star](https://cosmosinagalaxy.github.io/Funmath/soccerstar.html) working
 
-
+[Ice Hockey](https://cosmosinagalaxy.github.io/Funmath/icehockey.html)
 
 [Basketball Shooter](https://cosmosinagalaxy.github.io/Funmath/basketballshooter.html) working
 
