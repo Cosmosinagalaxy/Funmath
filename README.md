@@ -13,11 +13,11 @@
 
 <h2 style="color:green;">Sports Games </h2>
 
-[Soccer Star](https://cosmosinagalaxy.github.io/Funmath/soccerstar.html)
+[Soccer Star](https://cosmosinagalaxy.github.io/Funmath/soccerstar.html) working
 
 
 
-[Basketball Shooter](https://cosmosinagalaxy.github.io/Funmath/basketballshooter.html)
+[Basketball Shooter](https://cosmosinagalaxy.github.io/Funmath/basketballshooter.html) working
 
 
 
@@ -34,12 +34,13 @@
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
 
-[Zuma Shooter](https://cosmosinagalaxy.github.io/Funmath/zumashooter.html)
+[Tank Shooter](https://cosmosinagalaxy.github.io/Funmath/tankshooter.html) working
+
+[Zuma Shooter](https://cosmosinagalaxy.github.io/Funmath/zumashooter.html) working
 
 [Pixel Gun Survive](https://cosmosinagalaxy.github.io/Funmath/pixelgunsurvive.html) working
 
 
-[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html) 
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
@@ -49,13 +50,13 @@
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2 style="color:royalblue;">Simulator Games </h2>
 
-[Bottle Flip](https://cosmosinagalaxy.github.io/Funmath/bottleflip.html)
+[Bottle Flip](https://cosmosinagalaxy.github.io/Funmath/bottleflip.html) working
    
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
 
-[President Simulator](https://cosmosinagalaxy.github.io/Funmath/presidentsim.html) 
+[President Simulator](https://cosmosinagalaxy.github.io/Funmath/presidentsim.html) working
 
-[Eggy Car](https://cosmosinagalaxy.github.io/Funmath/eggycar.html)
+[Eggy Car](https://cosmosinagalaxy.github.io/Funmath/eggycar.html) working
 
 
 
