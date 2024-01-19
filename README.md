@@ -70,7 +70,7 @@
 
 <h2 style="color:red;">Fighting Games </h2>
 
-
+[King of Fighters](https://cosmosinagalaxy.github.io/Funmath/kingoffighters.html)
 
 [Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
 
