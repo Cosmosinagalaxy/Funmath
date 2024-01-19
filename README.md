@@ -50,6 +50,12 @@
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2 style="color:royalblue;">Simulator Games </h2>
 
+
+[Business Simulator](https://cosmosinagalaxy.github.io/Funmath/businesssimulator.html)
+
+
+
+
 [Bottle Flip](https://cosmosinagalaxy.github.io/Funmath/bottleflip.html) working
    
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
