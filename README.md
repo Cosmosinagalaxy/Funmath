@@ -46,6 +46,7 @@
    
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
 
+[President Simulator](https://cosmosinagalaxy.github.io/Funmath/presidentsim.html) 
 
 [Eggy Car](https://cosmosinagalaxy.github.io/Funmath/eggycar.html)
 
