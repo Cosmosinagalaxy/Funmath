@@ -61,7 +61,7 @@
 [Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
 
 
-
+[Mario Street Fight](https://cosmosinagalaxy.github.io/Funmath/mariofight.html)
 
 
 [Orcs VS Elves](https://jetyehsunblocked.codehs.me/games/orcs-vs-elves.html) working
