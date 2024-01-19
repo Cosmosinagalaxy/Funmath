@@ -25,6 +25,8 @@
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
 
+[Zuma Shooter](https://cosmosinagalaxy.github.io/Funmath/zumashooter.html)
+
 [Pixel Gun Survive](https://cosmosinagalaxy.github.io/Funmath/pixelgunsurvive.html) working
 
 
