@@ -75,6 +75,9 @@
 [Sticky Sorcerer](https://jetyehsunblocked.codehs.me/games/sticky-sorcerer.html) working
 
 
+
+[Javelin Fighting](https://cosmosinagalaxy.github.io/Funmath/javelinfighting.html)
+
 [Mario Street Fight](https://cosmosinagalaxy.github.io/Funmath/mariofight.html)
 
 
